@@ -16,8 +16,8 @@
     "plop": "plop"
   },
   "peerDependencies": {
-    "react": ">=16.9.0",
-    "prop-types": "^15.7.2"
+    "prop-types": "^15.7.2",
+    "react": ">=16.9.0"
   },
   "repository": {
     "type": "git",
@@ -43,5 +43,8 @@
     "node-sass": "^4.14.1",
     "plop": "^2.7.4",
     "prettier": "^2.0.5"
+  },
+  "dependencies": {
+    "monday-ui-style": "^0.1.52"
   }
 }
